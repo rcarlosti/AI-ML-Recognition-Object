@@ -1,1 +1,1 @@
-# AI-ML-Recognition-Object
+# AI-ML-Reconhece-Objetos
